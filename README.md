@@ -32,8 +32,8 @@
     <a href="https://linkedin.com/in/kumar-sahani" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50"></a>
     <a href="https://www.youtube.com/c/dregun" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="50"></a>
   <a href="https://wa.me/918143916500" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="50"></a>
-  <a href="https://twitter.com/kumarsahani10" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50"></a>
-  <a href="https://discordapp.com/users/kumar_sahani" target="blank"><img src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" width="50"></a>
+  <a href="https://discordapp.com/users/kumar_sahani" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50"></a>
+  <a href="https://twitter.com/kumarsahani10" target="blank"><img src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" width="50"></a>
   </div>
 
 
